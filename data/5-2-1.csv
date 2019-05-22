@@ -1,7 +1,15 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Disaggregation,Value
+2012,,
+2013,,
+2013,Emotional Total (12 months),21.0
+2013,Emotional Total (Ever),25.0
+2013,Emotional Urban (Ever),24.5
+2013,Emotional Rural (Ever),25.6
+2013,Physical Total (Ever),23.4
+2013,Physical Urban (Ever),22.7
+2013,Physical Rural (Ever),24.5
+2013,Physical Total (12 months),18.7
+2013,sexual Total (Ever),7.6
+2013,Sexual Urban (Ever),8.1
+2013,Sexual Rural (Ever),6.9
+2013,Sexual Total (12 months),6.6
